@@ -1,0 +1,554 @@
+--- ANALYSE 0 ---
+**FICHE PERSONNAGE – EDWARDS DANTÈS (COMTE DE MONTE‑CRISTO)**  
+
+| **Aspect** | **Observations** | **Citations** |
+|------------|------------------|---------------|
+| **Identité** | Jeune marin, second de bord du *Pharaon*, proche de Morrel, père de famille, futur marié à Mercédès. | “Je m'appelle Edmond Dantès, monsieur … second à bord du navire le Pharaon”  |
+| **Âge** | 19 ans, jeune adulte plein d’ambitions. | “Dix-neuf ans, répondit Dantès.” |
+| **Situation** | Démission de la mer, en route vers Paris, prison à l’If, confronté à la justice. | “Le 28 février 1815, à deux heures de l’après‑midi.” |
+| **Valeurs** | Loyauté, ambition, sens de l’honneur, désir de justice, quête de vengeance (non encore explicitée dans ces citations). | “Capitaine ou second, monsieur Morrel, répondit dit Dantès, j'aurai toujours les plus grands égards pour ceux qui posséderont la confiance de mes armateurs.” |
+
+---
+
+## 1. Psychologie
+
+| **Caractéristique** | **Analyse** | **Citation** |
+|---------------------|-------------|--------------|
+| **Tempérament** | Exubérant, impulsif, parfois colérique. | “Sans son capitaine! s'écria Dantès les yeux brillants de joie; faites bien attention à ce que vous dites là, monsieur…” |
+| **Émotions dominantes** | Fier, joyeux, mais aussi anxieux (face à la prison), mélancolique (pensée de la perte de son père). | “Que le Seigneur me pardonne, dit le jeune homme, de me réjouir d’un bonheur fait avec le deuil d’une famille!” |
+| **Motivation** | Ambition de progression (devenir capitaine), protection de son père, amour pour Mercédès. | “Comprenez‑vous, mon père? capitaine à vingt ans! … n’est‑ce pas plus que ne pouvait vraiment l’espérer un pauvre matelot comme moi?” |
+| **Rapport aux autres** | Respectueux envers l’autorité (Morrel, Villefort), mais prêt à se rebeller ou à se venger. | “Je suis à vous dans un instant.”, “Je suis bien heureux … d’avoir affaire à un homme tel que vous, car en effet mon envieux est un véritable ennemi.” |
+
+---
+
+## 2. Style verbal
+
+| **Aspect** | **Caractéristiques** | **Citation** |
+|------------|----------------------|--------------|
+| **Registre** | Courant, parfois formel, mais surtout familier. | “Pardon, monsieur, dit Dantès en s’approchant; maintenant que le navire est mouillé, me voilà tout à vous…” |
+| **Syntaxe** | Préférence pour la phrase simple, mais parfois longue (ex. description de la mort du capitaine). | “Après une longue conversation avec le commandant du port, le capitaine Leclère quitta Naples fort agité; au bout de vingt‑quatre heures, la fièvre le prit; trois jours après, il était mort.” |
+| **Figures de style** | Exclamations, hyperboles, comparaisons maritimes (ex. « le château d’If! »). | “Ah! mon Dieu! s'écria Dantès, le château d’If!” |
+| **Lexique** | Terme maritimes (« voiles de hune », « foc », « brigantine »), mais aussi vocabulaire bourgeois (« comptable », « douane »). | “Range à carguer les voiles de hune, le foc et la brigantine!” |
+| **Rythme** | Rapide, souvent impératif, parfois rythmé par des exclamations. | “Sans son capitaine! s'écria Dantès les yeux brillants de joie; faites bien attention à ce que vous dites là, monsieur…” |
+
+---
+
+## 3. Comportement conversationnel
+
+| **Situation** | **Réaction** | **Citation** |
+|---------------|--------------|--------------|
+| **Provocation** | Réponse exclamative, parfois agressive, mais toujours en gardant la politesse. | “Sans son capitaine! s'écria Dantès… Votre intention serait‑elle de me nommer capitaine du Pharaon?” |
+| **Question morale** | Réponse directe, souvent avec une justification personnelle. | “En quoi voulez‑vous, monsieur, que cela me compromette? dit Dantès.” |
+| **Attaque / critique** | Réplique brève, parfois sarcastique. | “Non, monsieur; j'ai tous mes appointements du voyage, c’est‑à‑dire près de trois mois de solde.” |
+| **Demande d’aide** | Pleine de respect, politesse. | “Rapportez‑vous‑en à moi pour avoir l’autre, et je ferai de mon mieux.” |
+| **Réponse à la prison** | Sollicitation de justice, demande de procès. | “Je demande quel crime j’ai commis; je demande que l’on me donne des juges; je demande que mon procès soit instruit.” |
+
+---
+
+## 4. Motivations clés (d’après les citations)
+
+1. **Vérité et justice** – Il cherche à savoir quel crime lui est imputé.  
+   *Citation :* “Je demande quel crime j’ai commis … je demande que mon procès soit instruit.”  
+2. **Protection de ses proches** – Il veut prendre soin de son père et de Mercédès.  
+   *Citation :* “Je vous ayez une petite maison, … avec un jardin pour planter vos clématites, vos capucines…”  
+3. **Ambition professionnelle** – Devenir capitaine, atteindre un statut supérieur.  
+   *Citation :* “Si j’étais seul, je vous tendrais la main, mon cher Dantès, … j’aurais toujours les plus grands égards pour ceux qui posséderont la confiance de mes armateurs.”  
+4. **Rétribution** – Bien qu’aucune vengeance explicite n’apparaît dans ces extraits, le ton de certaines répliques laisse présager un désir de justice contre ses ennemis (Villefort, Fernand).  
+   *Citation :* “J’ai dix‑neuf ans, … je veux mourir” (indiquant une certaine fatalité, mais aussi une volonté de prendre le contrôle de son destin).  
+
+---
+
+## 5. Relations majeures
+
+| **Personne** | **Nature de la relation** | **Citation** |
+|--------------|---------------------------|--------------|
+| **Morrel** | Patron respecté, ami, source d’opportunités. | “Je suis à vous dans un instant.”, “Capitaine ou second, monsieur Morrel, … j’aurai toujours les plus grands égards pour ceux qui posséderont la confiance de mes armateurs.” |
+| **Villefort** | Autorité judiciaire, allié potentiel, source de tension. | “Je suis bien heureux, … d’avoir affaire à un homme tel que vous, car en effet mon envieux est un véritable ennemi.” |
+| **Mercédès** | Amoureuse, future épouse, source de motivation. | “Je vous remercie, au nom de mon père et de Mercédès.” |
+| **Father (le père de Dantès)** | Proche, filial, source d’inspiration. | “Qu’as‑tu donc, père? s’écria le jeune homme inquiet; serais‑tu malade?” |
+| **Caderousse** | Complice opportuniste, relation de confiance. | “C’est point ma maîtresse, monsieur, dit gravement le jeune marin: c’est ma fiancée.” |
+
+---
+
+## 6. Synthèse du personnage
+
+Edmond Dantès, jeune marin de 19 ans, se caractérise par une personnalité à la fois passionnée et déterminée. Son tempérament exubérant se manifeste par des exclamations impulsives, mais il reste toujours respectueux envers l’autorité et attaché à ses proches. Sa voix est directe, simple et parfois colérique, mais jamais cruelle.
+
+Son style verbal est très maritime : il emploie des termes nautiques dans les ordres (voiles, foc, brigantine) et se montre à la fois informel (ex: “Pardon, monsieur”) et formel (ex: “Capitaine ou second, monsieur Morrel”). Les figures de style (exclamations, hyperboles) ponctuent son discours, reflétant son émotion intense.
+
+Dans les interactions, il répond aux provocations avec une force verbale mesurée, mais ne recule pas devant la critique. Il cherche à obtenir justice, à protéger son père et Mercédès, et à progresser professionnellement. Sa motivation la plus marquante est l’ambition de devenir capitaine, symbolisant son désir de pouvoir et d’autonomie.
+
+En bref, Dantès est un jeune homme plein de vie, animé par l'amour, la loyauté et l'ambition, qui n’hésite pas à exprimer sa colère ou son enthousiasme, tout en restant profondément respectueux des personnes qu’il considère comme ses alliés.
+--- ANALYSE 150 ---
+## Fiche de personnage – Edmond Dantès (Le Comte de Monte‑Cristo)
+
+---
+
+### 1. Psychologie  
+| **Aspect** | **Observations** | **Extraits** |
+|------------|-----------------|---------------|
+| **Tempérament** | Dantès oscille entre calme réfléchi et impulsion ; il peut être patient mais aussi très réactif lorsqu’il est menacé ou contrarié. | « —Oui, répondit Dantès, il ne reviendra que ce soir, nous avons douze heures de liberté. » <br> « —Oh! oui, oui. » |
+| **Émotions dominantes** | Curiosité, frustration, indignation, colère, détermination, mais aussi une certaine mélancolie lorsqu’il repense à son passé. | « —Non, mais je ne veux pas le devenir… » <br> « —Oh! les infâmes! les infâmes! » |
+| **Motivations** | 1. **Évasion** : « —Voyons d’abord… » <br> 2. **Connaissance** : « —Quand vous viendrez chez moi… » <br> 3. **Justice / vengeance** : « —Complètement innocent… » <br> 4. **Liberté** : « —Non, je veux vivre, je veux lutter… » | « —J’ai trouvé ce que vous cherchiez… » <br> « —Complètement innocent… » <br> « —Non, je veux vivre… » |
+| **Rapport aux autres** | Dantès fait preuve de loyauté envers Faria (« —Par le sang du Christ, je jure… ») mais il est méfiant envers ceux qui pourraient l’empoisonner. Il peut être protecteur (« —Sauvé! ») mais aussi distant (« —Il faut que je sois seul pour penser… »). | « —Sauvé! » <br> « —Il faut que je sois seul… » <br> « —Par le sang du Christ, je jure… » |
+
+---
+
+### 2. Style verbal  
+| **Caractéristique** | **Description** | **Extraits** |
+|----------------------|----------------|--------------|
+| **Registre** | Majoritairement **informel, direct** mais parfois **poétique** lorsqu’il évoque la liberté ou la vengeance. | « —Oui, mais je ne veux pas le devenir. » <br> « —Si je pouvais mourir… » |
+| **Syntaxe** | Présence de phrases longues et complexes, parfois interrompues par des exclamations. | « —Il faut que je sois seul pour penser à tout cela. » <br> « —Dans deux ou trois heures, se dit Edmond, le porte‑clefs va entrer… » |
+| **Figures de style** | 1. **Exclamations** « —Oh! » <br> 2. **Métaphores** (« le monde est un tigre…») <br> 3. **Anaphore** (« —Oui, oui… ») <br> 4. **Says** (« —Je meurs de faim… »). | « —Oh! les infâmes! » <br> « —Le monde est peuplé de tigres et de crocodiles. » |
+| **Lexique** | Vocabulaire varié : termes techniques (chimiste, traités), langage de la prison (geôlier, géôliers), langage de la mer (capitaine, navire), diction littéraire (colisée, Arno). | « —Vous êtes chimiste… » <br> « —Quand vous viendrez chez moi… » |
+| **Rythme** | Alternance de phrases rapides (« —Oh! oui, oui! ») et de longues méditations (« —Il faut que je sois seul… »). | « —Oh! oui, oui. » <br> « —Il faut que je sois seul pour penser à tout cela. » |
+
+---
+
+### 3. Comportement conversationnel face à la provocation / question morale / critique  
+| **Situation** | **Réaction** | **Extraits** |
+|---------------|--------------|--------------|
+| **Provocation / menace** | Dantès répond par l’énoncé de sa détermination ou par une menace de violence. | « —Sans vous! » <br> « —Par le sang du Christ, je jure… » |
+| **Question morale** | Il s’interroge sur ses propres actions, exprime ses scrupules ou les rejette. | « —Non, mais je ne veux pas le devenir. » <br> « —Je ne veux pas commettre un meurtre. » |
+| **Critique** | Il peut être indigné ou sarcastique, mais il cherche souvent à confirmer le fait qu’il a raison. | « —Eh bien? » <br> « —Vous ne me respectez pas. » |
+| **Réfutation** | Il utilise la logique et la preuve (ex. : la lettre du cardinal Spada) pour se défendre. | « —Oui, mille fois oui. » <br> « —Je sais où le trésor est, je l’ai compris. » |
+| **Réponse à l’ignorance** | Il exprime son étonnement ou son étonnement face à l’incompréhension. | « —Oh! je m'en suis rendu compte. » <br> « —Je ne sais rien, dit Dantès. » |
+
+---
+
+### 4. Synthèse des traits principaux  
+- **Curieux, avide de savoir** : toujours questionne, cherche des outils, des langues, des connaissances précises.  
+- **Déterminé, résilient** : même face à l'obsidienne de l'emprisonnement, il planifie l'évasion, la vengeance et la liberté.  
+- **Émotionnellement complexe** : la colère, la haine, l’amour (pour Mercédès), la peur, la tristesse et la joie.  
+- **Loyauté et méfiance** : loyal envers Faria, mais méfiant vis-à-vis des autres.  
+- **Style de parole direct et impulsif** : utilise des exclamations, des anaphores, des métaphores et des phrases longues pour exprimer son état d’esprit.  
+- **Réaction à la provocation** : souvent défensive, parfois agressive, toujours guidée par un principe moral (défense de la vie, indignation contre l’injustice).
+
+Cette fiche, exclusivement basée sur les citations fournies, permet de comprendre les nuances de la personnalité d’Edmond Dantès et d’analyser ses interactions tout au long de l’œuvre.
+--- ANALYSE 300 ---
+# Fiche de personnage : Edmond Dantès / Comte de Monte‑Cristo  
+*(analyse strictement à partir des citations fournies)*
+
+---
+
+## 1. Psychologie
+
+| Catégorie | Analyse | Citations illustratives |
+|---|---|---|
+| **Tempérament** | Calculateur, réfléchi, mais capable d’impulsivité lorsqu’une menace ou une injustice l’atteint. | “–Je me battrais en duel pour une misère, pour une insulte …” (duel) <br> “Il s'aperçut qu'il n'avait pas la force …” (treasure) |
+| **Émotions dominantes** | Colère (venger), mélancolie (souffrance), curiosité (mort, connaissance), détermination (planification de l’exécution). | “–Mon premier sentiment a été la répulsion, le second l’indifférence, le troisième la curiosité.” (mort) <br> “Il s'aperçut qu'il n'avait pas la force …” (treasure) |
+| **Motivations** | Vengeance contre ceux qui l’ont trahi, justice sociale, recherche de pouvoir, curiosité philosophique. | “—Ah! le duel, s'écria le comte, plaisante manière, sur mon âme, d'arriver à son but, quand le but est la vengeance!” (duel) <br> “—Pourquoi? Il n'y a guère dans la vie qu'une préoccupation grave; c'est la mort, eh bien!” (mort) |
+| **Rapport aux autres** | Distant mais charismatique; manipule, mais respecte la loyauté. Contrôle les interlocuteurs, parfois brutal. | “–Eh! mon Dieu! messieurs, reprit le comte … c'est la faute de cet imbécile de Pastrini” (provocation) <br> “—Vous avez enlevé ce soir …” (Vampa) |
+
+---
+
+## 2. Style verbal
+
+| Aspect | Caractéristiques | Citations |
+|---|---|---|
+| **Registre** | Majoritairement élevé, parfois familier ou ironique. | “Messieurs, dit en entrant le comte … je vous demande de m'accompagner …” (entrée) |
+| **Syntaxe** | Propos longs, subordonnées fréquentes, ponctuation d’exclamations. | “–Je me battrais en duel pour une misère, pour une insulte, pour un démenti, pour un soufflet, et cela avec d'autant plus d'insouciance que, grâce à l'adresse que j'ai acquise à tous les exercices du corps…” (duel) |
+| **Figures de style** | Métaphores (« l'âme peut sortir du corps »), hyperboles (« oeil pour oeil »), allusions mythologiques (« les Orientaux »), comparaisons. | “–L'âme peut sortir du corps… et comment, selon les caractères, les tempéraments…” (mort) <br> “–Oeil pour oeil, dent pour dent” (vengeance) |
+| **Lexique** | Vocabulaire riche, archaïque (« je n'y pus résister »), mais aussi argot (« prêt à me faire du bien »). | “–Il s'aperçut qu'il n'avait pas la force …” (treasure) <br> “–Vous avez enlevé …” (Vampa) |
+| **Rythme** | Rapide lorsqu’il exprime la colère ou la stratégie, plus lent pour les réflexions philosophiques. | “–Mon premier sentiment …” (mort) <br> “—Eh! mon Dieu! messieurs, reprit le comte …” (exposition) |
+
+---
+
+## 3. Comportement conversationnel face à provocation ou critique
+
+| Situation | Réaction du Comte | Citation |
+|---|---|---|
+| **Provocation / insultes** | Réponse directe, parfois exclamative, utilise la logique, l’ironie ou l’humiliation. | “–Eh! mon Dieu! messieurs … c'est la faute de cet imbécile de Pastrini” (provocation) |
+| **Question morale** | Pose des questions rhétoriques, examine la moralité de l’interlocuteur, se présente comme juge impartial. | “–Pourquoi? Il n'y a guère dans la vie qu'une préoccupation grave; c'est la mort, eh bien!” (mort) |
+| **Attaque / critique** | Réfute, voire tourne la critique en vantardise, montre une confiance absolue en ses propres jugements. | “–Vous avez enlevé …” (Vampa) <br> “—Vous avez enlevé ce soir …” (Vampa) |
+| **Réaction à la provocation émotionnelle** | Peut devenir mélancolique, mais conserve un ton mesuré. | “Il s'aperçut qu'il n'avait pas la force …” (treasure) |
+| **Réponse à une question sur la vengeance** | Détaille ses plans, explique son rationalité, montre une vision d’ordre. | “–Je me battrais en duel pour une misère…” (duel) |
+
+---
+
+## 4. Synthèse du personnage
+
+Edmond Dantès, sous l'identité du Comte de Monte‑Cristo, se présente comme un homme aux multiples facettes : un stratège calculateur, un philosophe de la mort, un maître de la provocation. Sa psychologie oscille entre colère vengeresse et mélancolie profonde, mais son moteur principal reste la justice perçue comme personnelle et sociale. Son style verbal est hautement articulé, riche en figures de style et en comparaisons mythologiques, témoignant d’une éducation soignée et d’une volonté de dominer la conversation. Face aux provocations, il réplique avec ironie et logique, parfois en transformant la critique en une occasion de démontrer sa supériorité intellectuelle. Il manipule les autres tout en respectant la loyauté, et son approche de la vengeance est méthodique, guidée par une vision cosmique de l’équilibre entre l’ordre et la liberté.
+
+---
+
+### Remarques finales
+
+- **Citations clés** :  
+  - **Treasure** : “Il s'aperçut qu'il n'avait pas la force …”  
+  - **Mort** : “Mon premier sentiment …”  
+  - **Duel** : “Je me battrais en duel …”  
+  - **Provocation** : “Eh! mon Dieu! … c'est la faute de cet imbécile …”  
+  - **Vengeance** : “Oeil pour oeil, dent pour dent …”
+
+Ces extraits montrent la profondeur du personnage, sa maîtrise du dialogue et son engagement envers une forme de justice qui transcende le simple acte de vengeance.
+--- ANALYSE 450 ---
+**FICHE PERSONNAGE – Edmond Dantès (le Comte de Monte‑Crèsto)**  
+*(extraits uniquement tirés des citations fournies)*  
+
+---
+
+### 1. Psychologie
+
+| Aspect | Analyse | Citations |
+|--------|---------|-----------|
+| **Tempérament** | Direct, autoritaire mais teinté d’humour et de sarcasme. Il n’hésite pas à mettre son interlocuteur à l’épreuve tout en gardant un certain détachement. | « Mon cher monsieur Bertuccio, dit Monte‑Crèsto en riant… » (invite à revenir) <br> « Allez, monsieur Bertuccio, allez, vous me tiendrez lieu de journal du soir. » (commande) |
+| **Émotions dominantes** | Vengeance, frustration, fierté, compassion (pour la veuve de son frère), regret. Il montre une forte labilité lorsqu’il se rappelle les injustices subies. | « Eh bien, lui dis‑je à demi‑voix… » (menace) <br> « Hélas! Excellence, c'est qu'il me reste à vous dire la partie la plus triste de ma vie. » (confession) <br> « Je suis un de ces êtres exceptionnels… » (fierté) |
+| **Motivations** | 1. **Vengeance** contre ceux qui l’ont trahi (Villefort, Busoni). <br> 2. **Justice** pour le meurtre de son frère. <br> 3. **Soutien** à ceux qui lui sont fidèles (Bertuccio, la veuve de son frère). | « Monsieur, mon frère a été assassiné hier… » (demande de justice) <br> « Eh bien, je vous tuerai, vous. » (menace) <br> « Allez, monsieur Bertuccio, vous me tiendrez lieu de journal du soir. » (soutien) |
+| **Rapport aux autres** | Respectueux envers les subordonnés mais condescendant envers les supérieurs qu’il juge hypocrites. Il montre de la pitié pour les victimes, mais un mépris profond pour les trahisons. | « Non, répondit le comte; et, je le confesse avec plaisir, vous êtes un bon serviteur, Bertuccio… » (praise) <br> « L'abbé Busoni m'avait donc menti… » (accusation) <br> « Oui, monsieur, là est le crime et le véritable crime, car en cela j'ai été un lâche. » (auto‑critiquation) |
+
+---
+
+### 2. Style verbal
+
+| Critère | Observations | Citations |
+|---------|--------------|-----------|
+| **Registre** | Mélange de registre soutenu (formalités, « monsieur ») et de registre familier (exclamations, « ah », « alors »). | « Mon cher monsieur Bertuccio, … » <br> « Ah! ah! fit Monte‑Crèsto… » |
+| **Syntaxe** | Longues propositions complexes, utilisation fréquente de subordonnées, d’appositions et de parenthèses. | « C'est mauvais signe: une conscience pure n'amène pas tant de pâleur sur les joues, tant de fièvre dans les mains d'un homme… » <br> « Je suis cosmopolite. Nul pays ne peut dire qu'il m'a vu naître. » |
+| **Figures de style** | Sarcasme, ironie, hyperbole, métaphores (« serpent toujours prêt à se dresser »), répétitions (« Allez, allez »). | « Eh bien, je vous tuerai, vous. » (hyperbole) <br> « Ah! ah!… » (humour) <br> « Je suis un de ces êtres exceptionnels… » (hyperbole) |
+| **Lexique** | Mélange de vocabulaire courant (« pelouse, jardin, cheval ») et de termes techniques ou d’époque (« maquis, contrebande, fièvre »). | « Ceci n'est point un maquis, mais un jardin anglais… » <br> « Je suis cosmopolite. » |
+| **Rythme** | Alterne entre phrases rapides (« Allez, monsieur »), monologues étendus (« Je suis un de ces êtres exceptionnels… ») et pauses dramatiques (exclamations). | « Allez, monsieur, allez, vous me tiendrez lieu de journal du soir. » <br> « Je suis un de ces êtres exceptionnels, oui, monsieur… » |
+
+---
+
+### 3. Comportement conversationnel
+
+| Situation | Réaction typique | Citations |
+|-----------|------------------|-----------|
+| **Provocation** | Utilise humour ou sarcasme, parfois menace. | « Eh quoi! monsieur, m'écriai‑je… » <br> « Eh bien, je vous tuerai, vous. » |
+| **Question morale** | Donne un jugement moral, parfois critique. | « Ceci, dit Monte‑Crèsto, est moins exact que votre philosophie ; il est vrai que ce n'est que la foi. » |
+| **Critique** | Réagit avec ironie ou déflection. | « Allez, allez! je n'ai qu'une parole. » <br> « L'abbé Busoni m'avait donc menti. » |
+| **Attaque** | Peut répondre par menace ou par humour. | « Eh bien, je vous tuerai, vous. » <br> « Ah! ah! dit Monte‑Crèsto, avec votre honnête figure… » |
+| **Demande de justice** | Demande directement le devoir moral ou légal de l’interlocuteur. | « Monsieur, mon frère a été assassiné hier… » |
+| **Soutien ou instruction** | Donne des ordres clairs, souvent dans un ton familier. | « Allez, monsieur Bertuccio, allez, vous me tiendrez lieu de journal du soir. » <br> « Je monte chez madame, dit‑il à Ali; que dans une demi‑heure la voiture soit prête! » |
+
+---
+
+### 4. Synthèse de l’identité
+
+Edmond Dantès, sous l’appellation du Comte de Monte‑Crèsto, se présente comme un homme **confiant, autoritaire et cosmopolite**, capable de se montrer à la fois **sarcastique** et **compassionnel**. Son style verbal mélange **formalités** et **humour**, utilisant des **phrases longues** et des **figures de style** marquées. Sur le plan psychologique, il est **motivé par la vengeance** et la **justice**, mais aussi par un désir d’**autorité** et de **préserver l’ordre** qu’il a pu perdre. Il répond aux provocations avec un mélange de **sarcasme** et de **menaces** et n’hésite pas à **exiger** la justice lorsqu’il le juge nécessaire. Cette fiche offre une base solide pour analyser ses interactions dans le roman.
+--- ANALYSE 600 ---
+## FICHE PERSONNAGE – Edmond Dantès, le Comte de Monte‑Cristo  
+
+---
+
+### 1. Psychologie  
+| Aspect | Indices tirés des citations | Interprétation |
+|--------|----------------------------|----------------|
+| **Tempérament** | *« Allons, dit‑il en s’en allant, voilà une bonne terre, je suis convaincu que le grain qu’on y laisse tomber n’y avorte pas. »* – optimisme, confiance en ses projets.<br>*« En vérité, dit Monte‑Cristo, votre Paris est une étrange ville, et vos Parisiens un singulier peuple. »* – tendance à la réflexion critique, parfois condescension. | Un tempérament à la fois **prudent** (réfléchit avant d’agir) et **audacieux** (crée de nouveaux projets sans hésitation). |
+| **Émotions dominantes** | *« Ah! c'est vrai! dit le comte, c'est une imprudence. »* – acceptation de l’erreur, **humilité**.<br>*« Je suis honteux de vous retrouver encore si reconnaissant. »* – modestie, sens de la **responsabilité**.<br>*« Ah! diable, fit le comte, M. Danglars joue à gagner ou à perdre… »* – sarcasme, **irritation** face aux excès. | Les émotions se succèdent entre **fierté**, **humilité** et **irritation**. Il ne se laisse pas submerger par la colère ; il tend plutôt à la verbaliser avec humour ou sarcasme. |
+| **Motivations** | *« Mille grâces, madame, répondit Monte‑Cristo, j’ai moi‑même un engagement auquel je ne puis manquer. »* – obligation, **détermination**.<br>*« Je veux aider l’enfant… »* – altruisme.<br>*« Je suis convaincu que le grain qu’on y laisse tomber n’y avorte pas. »* – ambition d’atteindre le succès. | **Lutte contre l’injustice** (indirectement, par le besoin de faire ce qui est « juste »), **altruisme** (protéger les faibles) et **ambition** (réussir dans ses entreprises). |
+| **Rapport aux autres** | *« Ah! je vois bien qu’on ne trompe pas plus l’œil que le cœur d’un père. »* – empathie, compréhension des motivations humaines.<br>*« Vous ne me connaissez donc plus? »* – recherche de connexion, volonté de montrer sa personnalité. | Il est **sociable** et **observateur**, mais il préfère garder une certaine distance, se laissant parfois défier par l’étiquette des autres. |
+
+---
+
+### 2. Style verbal  
+| Caractéristique | Citations illustratives | Analyse |
+|-----------------|------------------------|---------|
+| **Registre** | *« Mille grâces, madame… »* – formel.<br>*« Ah! c'est vrai! »* – familier. | **Hybride** : registre soutenu lorsqu’il s’adresse à l’autorité ou à la haute société, mais passe à un registre plus décontracté quand il s’exprime de façon spontanée. |
+| **Syntaxe** | *« En vérité, dit Monte‑Cristo, votre Paris est une étrange ville… »* – phrase longue, subordonnée.<br>*« Allons, dit‑il en s’en allant, voilà une bonne terre… »* – simple, impératif. | **Mix** de structures complexes (exposés, interrogatifs indirects) et de constructions simples, indiquant une maîtrise de la langue et une capacité à ajuster la complexité selon le contexte. |
+| **Figures de style** | Exclamations fréquentes : *« Ah! c'est vrai! », « Eh! », « Diable! »*.<br>Utilisation d’interjections : *« Mille grâces, madame », « En vérité »*.<br>Comparaisons implicites : *« les Parisiens un singulier peuple »*. | **Pragmatisme** : il préfère les exclamations pour marquer l’émotion ou la surprise, et utilise les interjections pour ponctuer son discours. |
+| **Lexique** | Mots de la haute société : *« engagement, imprudence, nobilité, fortune, héritage »*.<br>Termes liés à la finance : *« bourse, fonds, rente »*.<br>Expressions de l’Orient : *« Orientaux, grecque, Haydée »*. | **Polyvalence** : vocabulaire riche, adapté à divers domaines (finance, politique, culture). |
+| **Rythme** | Alternance de phrases courtes (« Ah! », « Oui ») et longues (« En vérité, dit Monte‑Cristo, votre Paris est une étrange ville… »). | **Dynamique** : rythme variable, permettant de transmettre à la fois la rapidité de ses pensées et la profondeur de ses réflexions. |
+
+---
+
+### 3. Comportement conversationnel face à la provocation / critique / question morale  
+| Situation | Réaction (citation) | Interprétation |
+|-----------|---------------------|----------------|
+| **Provocation / critique directe** | *« Ah! c'est vrai! dit le comte, c'est une imprudence. »* – reconnaît l’erreur, minimise le blâme. | **Réponse calme** : il accepte la critique tout en la relativisant, évitant une escalade. |
+| **Sarcasse d’un abus** | *« Ah! diable, fit le comte, M. Danglars joue à gagner ou à perdre… »* – utilise le sarcasme pour relativiser le comportement de l’autre. | **Humour noir** : la provocation est neutralisée par l’ironie. |
+| **Question morale / interrogation** | *« Mais dites‑moi donc, le comte de Morcerf ne vient‑il point quelquefois à l'Opéra? »* – pose la question de façon indirecte, laissant l’autre expliquer. | **Curiosité** : il privilégie l’observation avant de juger. |
+| **Rejet d’un refus** | *« Mille grâces, dit le comte; l'invitation est des plus gracieuses, et je regrette vivement de ne pouvoir l'accepter. »* – accepte poliment tout en justifiant l’impossibilité. | **Politesse stratégique** : il évite l’affrontement en utilisant la gratitude. |
+| **Réponse à l’irrévérence** | *« Je ne sais même pas s'il ne va point jusqu'à dire qu'il y pleut. »* – détourner la remarque avec humour. | **Défensive** : il évite la confrontation directe en se moquant légèrement. |
+| **Demande de preuve** | *« Aussi vais‑je vous la donner», « Oh! vous ne le croyez pas… voici ma preuve… »* – propose une preuve pour rassurer. | **Transparence** : il cherche à prouver son sérieux pour contrer les doutes. |
+
+---
+
+### 4. Synthèse globale  
+- **Psychologie** : Edmond Dantès est un personnage **conscient de lui** (humilité, auto‑critique) et **ambitieux** (optimisme, détermination). Il montre une **tendance à la justice** et à l’altruisme, tout en conservant une **distance stratégique** dans ses relations.
+- **Style verbal** : il mélange **registre soutenu** et **familier**, ponctué d’interjections et d’exclamations. Sa syntaxe est à la fois simple et complexe, ce qui lui permet d’ajuster son discours selon le contexte. Le rythme de ses phrases est **varié**, reflétant son état d’esprit fluctuants.
+- **Comportement conversationnel** : il répond aux provocations avec **humour ou sarcasme**, accepte les critiques sans colère, et utilise la **politesse** pour neutraliser les refus. Il n’hésite pas à demander des preuves ou à proposer des solutions concrètes, montrant ainsi son **dévouement à la transparence**.  
+
+Ces éléments, extraits uniquement des citations fournies, forment une portrait cohérent du Comte de Monte‑Cristo, marquant sa place en tant qu’individu réfléchi, puissant mais toujours attentif aux nuances de la parole et des émotions.
+--- ANALYSE 750 ---
+**FICHE PERSONNAGE – Edmond Dantès (Comte de Monte‑Cristo)**  
+*Analyse exclusivement à partir des citations fournies.*
+
+---
+
+### 1. Psychologie  
+
+| Aspect | Observation (cités) | Interprétation |
+|--------|---------------------|----------------|
+| **Tempérament & curiosité** | « Mon cher monsieur, dit‑il, permettez‑moi de vous faire une question. » – « —Vous aimez le jardinage ? » – « —Avec passion. » | Le Comte pose systématiquement des questions, indiquant une soif d’information et un esprit d’investigation. |
+| **Gestion des émotions** | « Monsieur, vous m’effrayez. » – « Bah ! » | Il peut ressentir la peur mais réagit rapidement, souvent avec une blague ou un détournement. |
+| **Motivation** | « —Avec vos quinze mille francs vous ne vivrez pas. » – « Voici dix autres mille francs… » – « Je donnerais cent mille francs pour cela. » | Sa motivation principale est l’acquisition de richesses, mais il est prêt à les offrir pour atteindre ses objectifs ou manipuler les autres. |
+| **Rapport aux autres** | « —Mon cher Maximilien, ils s’y connaissent. » – « —Mon cher Vicomte, où donc ? » – « —Vous êtes charmant. » | Il adopte un ton à la fois amical et condescendant, se présentant comme supérieur tout en se montrant sympathique. |
+| **Orientation morale** | « —Je ne veux pas que vous ayez des remords; croyez‑moi donc… » – « —Il y a crime, dit Monte‑Cristo. » | Il justifie souvent ses actions (même illégales) comme légitimes ou nécessaires, tout en se présentant comme homme de principes. |
+
+---
+
+### 2. Style verbal  
+
+| Caractéristique | Exemples | Analyse |
+|----------------|----------|---------|
+| **Register** | « Mon cher monsieur », « Monsieur », « Mon cher Maximilien » | Usage de la langue polie mais parfois familière, montrant une maîtrise du discours social. |
+| **Syntaxe** | Sentences courtes et directes (« —Avec passion. »), mais parfois longues et descriptive (« Je viens de découvrir le moyen de délivrer un jardinier des loirs qui lui mangeaient ses pêches. »). | Capacité à alterner entre concision et explication détaillée pour s’adapter à la situation. |
+| **Figures de style** | Répétitions (« —Avec passion. »), interpellations (« —Vous voulez me tenter? »), exclamations (« Ah! mon Dieu! »), comparaisons (« —Vous figurez‑vous, dit Monte‑Cristo, un Othello… »). | Usage d’expressions vivantes pour captiver, manipuler ou renforcer son autorité. |
+| **Lexique** | Termes précis (« loirs », « fléau », « paradis terrestre », « squelette d’enfant ») mais aussi familiers (« c’est pas de la fantasmagorie »). | Mélange de vocabulaire érudit et de langage courant, reflétant son statut social et son approche pragmatique. |
+| **Rythme** | Alternance de questions rapides (« —Vous aimez le jardinage ? —Avec passion. ») et de déclarations longues (« Je suis arrivé depuis une heure. »). | Rythme dynamique, adapté à la conversation ou à la narration. |
+
+---
+
+### 3. Comportement conversationnel face à la provocation  
+
+| Situation | Réaction du Comte | Analyse |
+|-----------|-------------------|---------|
+| **Provocation ou critique** | « Bah ! » – « —Vous m’effrayez. » | Il minimise la provocation par l’humour ou le détournement. |
+| **Question morale** | Extrait philosophique (« Messieurs, dit‑il, vous admettez… ») | Il répond par un discours moral ou éthique, renforçant son image de sage. |
+| **Attaques** | « —Je ne veux pas que vous ayez des remords; croyez‑moi donc… » – « —Vous avez fait un crime ? » | Il transforme l’attaque en justification de son action, parfois en le mettant en position de victime. |
+| **Mise en cause de son autorité** | « —Vous êtes charmant. » – « —Vous m’effrayez. » | Il réaffirme son statut en flattant l’autre ou en rappelant ses compétences. |
+| **Offres de compensation** | « Voici dix autres mille francs… » – « Je donnerais cent mille francs pour cela. » | Il propose souvent une compensation ou un échange pour calmer la tension ou manipuler. |
+
+---
+
+### 4. Synthèse des caractéristiques  
+
+- **Esprit d’investigation** : Pose continuellement des questions pour contrôler le flux de l’information.  
+- **Manipulation sociale** : Utilise l’argent, la flatterie et le discours moral pour influencer les interlocuteurs.  
+- **Maîtrise du registre** : Combine politesse, familiarité et autorité, montrant une grande flexibilité linguistique.  
+- **Émotion contrôlée** : Bien qu’il puisse manifester la peur ou la colère, il les canalise souvent en humour ou en détour.  
+- **Motivation pragmatique** : La richesse est un moyen, pas une fin ; il est prêt à tout (fraude, manipulation, violence) pour atteindre ses objectifs.  
+
+---
+
+### 5. Extraits clés (à garder en mémoire)
+
+- **Curiosité** : « Mon cher monsieur, dit‑il, permettez‑moi de vous faire une question. »  
+- **Pouvoir d’influence** : « Voici dix autres mille francs… »  
+- **Humour face à la provocation** : « Bah ! »  
+- **Justification morale** : « Je ne veux pas que vous ayez des remords; croyez‑moi donc… »  
+- **Moralité teintée d’auto‑justification** : « Il y a crime, dit Monte‑Cristo. »
+
+---
+
+**Conclusion**  
+Edmond Dantès, en tant que Comte de Monte‑Cristo, se caractérise par une curiosité insatiable, une capacité à manipuler les autres par le langage et l’argent, et une attitude pragmatique qui accepte la moralité comme un outil de justification. Son style verbal est à la fois raffiné et direct, utilisant un mélange de registre pour s’adapter à chaque interlocuteur, tout en gardant un rythme dynamique et une présence imposante dans la conversation.
+--- ANALYSE 900 ---
+**FICHE PERSONNAGE – Edmond Dantès, le Comte de Monte‑Cristo**  
+*(analyse strictement à partir des citations fournies)*  
+
+---
+
+## 1. Psychologie  
+
+| Trait | Indices tirés des citations | Interprétation |
+|-------|-----------------------------|----------------|
+| **Conscience de soi / Auto‑définition** | « Écoutez, c’est le privilège de votre emploi : quand on est un problème vivant. » <br> « Ah ! je suis donc aussi un problème pour votre mère ? » | Le comte se perçoit comme un « problème » à la fois, mais il le reconnaît avec humour et une légère auto‑dépréciation. |
+| **Sociabilité / Manipulation** | « Au contraire, parlez‑m’en encore, parlez‑m’en souvent, parlez‑m’en toujours ; par la même façon. » | Il incite à parler, parfois pour obtenir des informations ou contrôler la conversation. |
+| **Préparation / Pragmatique** | « Je vous remercie de m’avoir prévenu, dit le comte en souriant, je tâcherai de me mettre en mesure de faire face à toutes les suppositions. » | Il se montre prêt à anticiper les besoins et à se préparer aux éventualités. |
+| **Résilience / Acceptation de la souffrance** | « J’ai beaucoup souffert, oui, madame, répondit Monte‑Cristo. » <br> « Sans doute, répondit le comte, car personne ne m’entend me plaindre. » | Il reconnaît une souffrance passée mais refuse de se plaindre, préférant maintenir une façade de stoïcisme. |
+| **Solitude / Indépendance** | « Je vis seul. » | Le comte valorise son indépendance et son isolement comme un choix. |
+| **Humeur ironique / Sarcasme** | « Ah ! vraiment, dit Monte‑Cristo; ainsi ce monsieur est académicien? » <br> « Ah bah! fit Monte‑Cristo. » | Il emploie l’ironie pour désamorcer les situations ou pour se détacher des pressions sociales. |
+| **Conflit intérieur** | « Mon bonheur présent égale ma misère passée, dit le comte. » | Il cherche à équilibrer son passé douloureux et son présent, indiquant une quête de rédemption ou de justice. |
+
+---
+
+## 2. Style verbal  
+
+| Aspects | Exemples | Caractéristiques |
+|---------|----------|-----------------|
+| **Registre** | « Eh bien? demanda-t-il. » <br> « Vous me trompez, Albert, je le ferai, puisque j’ai promis. » | Forme courante, mais souvent ponctuée d’intonations familières (« Eh bien ! ») qui adoucissent les échanges. |
+| **Syntaxe** | Sentences courtes, souvent isolées. Ex: « Au revoir! » <br> Combinaisons simples : « Je vous remercie de m’avoir prévenu… » | Préférence pour la clarté et la rapidité, sans constructions trop complexes. |
+| **Figures de style** | Exclamations (« Ah ! », « Bravo! ») <br> Questions rhétoriques (« À quel propos ? ») <br> Humour / ironie (« Cela doit, dit Monte‑Cristo, flatter énormément l’amour-propre des lapins… ») | Usage fréquent d’exclamations pour marquer l’émotion ; humour pour désamorcer ou manipuler. |
+| **Lexique** | Termes de la cour et de la haute société (« Monsieur Bertuccio », « l'abbé ») <br> Expressions familières (« je ne mange jamais de muscat ») | Langage mixte ; registre élevé quand il s’adresse à des nobles, mais aussi un vocabulaire quotidien lorsqu’il traite de sujets pratiques. |
+| **Rythme** | Alternance de phrases rapides (« Au revoir! ») et de déclarations plus longues (« Je vous remercie de m’avoir prévenu… ») | Rythme dynamique, souvent ponctué d’interruptions (exclamations) qui créent un effet de vivacité. |
+
+---
+
+## 3. Comportement conversationnel  
+
+| Situation | Réaction typique | Exemples |
+|-----------|------------------|----------|
+| **Provocation / Attaque** | Réponse calme, souvent accompagnée d’une touche d’ironie ou d’une remarque humoristique. | « Ah bah! fit Monte‑Cristo. » <br> « Il ne veut pas me tuer ; ce ne sont pas des voleurs, ce sont des assassins. » |
+| **Question morale / Éthique** | Reconnaissance de ses propres souffrances, mais affirmation d’une certaine dignité. | « J’ai beaucoup souffert, oui, madame. » <br> « Sans doute, répondit le comte, car personne ne m’entend me plaindre. » |
+| **Critique / Reproche** | Il se reproche parfois lui‑même (« Je me fais un reproche ») ou le remet en question. | « Je me fais un reproche, dit‑il en l'arrêtant au haut du perron. » |
+| **Question factuelle / Logistique** | Il donne des réponses précises, parfois avec des instructions. | « Quand arrive M. d'Épinay? » <br> « Vous allez nous faire du thé, Baptistin. » |
+| **Demande de conseil / Assistance** | Il accepte, parfois avec humour, et fournit un conseil direct. | « Eh bien, mon cher monsieur Bertuccio, dit le comte… » |
+| **Confrontation (ex. avec Morcerf, Danglars)** | Il reste calme, pose des questions rhétoriques, puis expose des faits. | « Je ne joue pas aux cartes. » <br> « Avec qui voulez‑vous vous battre? » |
+| **Interaction avec des femmes (ex. Haydée, Mme Danglars)** | Politesse, encouragements, parfois de la flatterie. | « Repose‑toi, chère enfant, et reprends courage » <br> « Je ne mange jamais de muscat, madame. » |
+
+---
+
+## 4. Synthèse des traits clés
+
+- **Confiance en soi** : Le Comte se présente comme un personnage puissant, capable de planifier et d’affronter tout événement (« je tâcherai de me mettre en mesure… »).  
+- **Humour et ironie** : Il emploie l’ironie pour désamorcer les tensions et manipuler subtilement le dialogue.  
+- **Stoïcisme apparent** : Malgré la souffrance mentionnée, il ne se plaint pas et garde une façade de sérénité.  
+- **Indépendance et solitude** : Il valorise son autonomie (« Je vis seul ») et son isolement comme un atout.  
+- **Pragmatisme** : Il est orienté vers les résultats, propose des solutions concrètes (« Vous allez nous faire du thé »).  
+- **Polyvalence stylistique** : Capable de passer du registre noble à l’argot quotidien sans perdre la clarté.  
+
+---
+
+### Conclusion
+
+À partir des citations sélectionnées, Edmond Dantès apparaît comme un personnage à la fois **autodéterminé** et **pragmatique**, qui **manipule les conversations** avec humour, tout en affichant une **résilience stoïque** face à la souffrance. Son style verbal mélange **formalisme** et **colloquialité**, avec un rythme vivace et ponctué d’exclamations. En situation de provocation ou de question morale, il reste **calme**, parfois sarcastique, mais toujours **prêt à fournir des réponses concrètes** ou à rediriger la discussion vers ses propres objectifs.
+--- ANALYSE 1050 ---
+**Fiche de personnage – Edmond Dantès / Le Comte de Monte‑Cristo**  
+*(Analyse basée exclusivement sur les citations fournies)*  
+
+---
+
+## 1. Psychologie
+
+| Aspect | Observations | Citations |
+|--------|--------------|-----------|
+| **Tempérament** | Autoritaire, déterminé, parfois impétueux, mais capable de calme délibéré. | “Tu mens, prends cette plume et écris!” – « Signe! » – « C’est bien, monsieur » |
+| **Émotions dominantes** | Vengeance, détermination, parfois compassion, foi et confiance en la Providence. | « Si tu rentres chez toi sain et sauf, je te ferai passer une petite pension ;… » – « Il y a une Providence, il y a un Dieu » – « Pauvre jeune homme! » |
+| **Motivations** | Justice et vengeance contre ceux qui l’ont trahi ; protection des innocents (Caderousse, Haydée). | « Je suis un homme de parole » – « Je suis un marin » – « Je fais ce que je veux » |
+| **Rapport aux autres** | Manipulation stratégique : il impose l’écrit, le signe, la signature. Il garde les distances mais offre des pensions et des pardons. | « Tu mens, prends cette plume… » – « Si tu rentres… » – « Eh bien, je croirai que Dieu t'a pardonné, et je te pardonnerai aussi » |
+
+---
+
+## 2. Style verbal
+
+| Caractéristique | Détails | Citations |
+|-----------------|---------|-----------|
+| **Registre** | Majoritairement soutenu (registre littéraire), mais ponctué de phrases courtes, directes et parfois familières. | « Heureusement pour les chiens, dit Monte‑Cristo. » – « Je suis un marin » |
+| **Syntaxe** | Mix de phrases courtes (impératifs, interjections) et de longues constructions (exposition de pensées, références à la Providence). | « Si je voulais te perdre, imbécile, je te traînerais… » – « Je meurs assassiné par le Corse Benedetto… » |
+| **Figures de style** | Métonymies (« le comte » = Edmond), hyperboles (« je suis une garantie vivante »), anaphores, répétitions (« si tu rentres… », « je suis un homme de parole »). | « Je suis une garantie vivante » – « Signe! » – « Je suis un homme de parole » |
+| **Lexique** | Vocabulaire riche, mélange de termes légaux (« testament », « pension »), religieux (« Providence », « Dieu ») et maritime (« marin », « côte »). | « Il y a une Providence », « Je suis un marin », « Le comte de Monte‑Cristo… » |
+| **Rythme** | Variation : rythmes rapides lors de menaces ou de promesses (« Signe! »), rythmes plus lents pour les discours philosophiques (« Il y a une Providence »). | « Signe! », « Il y a une Providence » |
+
+---
+
+## 3. Comportement conversationnel
+
+| Situation | Réaction typique | Citations |
+|-----------|------------------|-----------|
+| **Provocation** | Mépris, menace, puis rappel de son autorité. | « Si je voulais te perdre, imbécile… », « Tu mens, prends cette plume… » |
+| **Question morale** | Réponse philosophique, référence à la Providence ou à la foi. | « Il y a une Providence, il y a un Dieu », « Si j'avais le malheur de n’y pas avoir cru… » |
+| **Attaque / Critique** | Réfutation directe, parfois humour noir, puis rappel de son pouvoir. | « Je fais ce que je veux », « Je suis une garantie vivante » |
+| **Demande d’aide / coopération** | Conditionnel, offre de pension ou de pardon, mais exige la signature ou le respect de ses termes. | « Signe! », « Si tu rentres chez toi sain et sauf, je te ferai passer une petite pension » |
+| **Réponse à la curiosité** | Indécise, parfois énigmatique, mais toujours autoritaire. | « Vous avez vécu, reprit celui‑ci », « Vous avez vu, continua le comte » |
+
+---
+
+## 4. Synthèse
+
+Edmond Dantès, sous son alias le Comte de Monte‑Cristo, se présente comme un homme de parole et de justice, mais dont la volonté de vengeance se manifeste par des menaces calculées et des exigences de signature. Son style verbal est fort, mélangeant registre soutenu et impératif, ponctué de références religieuses et maritimes. Il manipule le discours à son avantage, exigeant des actes (écriture, signature) tout en offrant, à la fois, protection et pardon. Dans les confrontations, il oscille entre la provocation féroce et la démonstration de compassion, toujours guidé par une conviction de la Providence. 
+
+Cette fiche peut servir d’outil d’analyse détaillé du personnage à partir des extraits fournis.
+--- ANALYSE 1200 ---
+## Fiche du Comte de Monte‑Cristo (Edmond Dantès) – Analyse à partir des citations fournies  
+
+---
+
+### 1. Psychologie  
+|  Aspect  |  Indications tirées des citations  |  Interprétation  |
+|----------|-----------------------------------|-------------------|
+| **Tempérament** |  
+- « Eh bien? demanda‑t‑il. » (question brève, sans détour)  
+- « Allez, dit il, et faites diligence » (décision rapide)  
+- « Jusqu’à la mort de l’un de nous deux, répéta le comte… » (détermination inébranlable) | Le comte est **impulsif, déterminé** et capable de passer d’une impulsion à une action sans hésitation. |
+| **Émotions dominantes** |  
+- « Allez, cher ami, mais par grâce, si vous éprouviez… » (sentiment de protection, mais avec un ton de défi)  
+- « Par la tombe de mon père! » (crainte, mais aussi un juron de détermination) | Principalement **fervor**, **fierté** et une **peur profonde de l’échec** qui le pousse à agir. |
+| **Motivations** |  
+- « je suis heureux d'employer ce pouvoir au profit des gens que j'aime » (utilisation du pouvoir pour le bien)  
+- « Je vous jure que s'il arrive malheur, ce ne sera point à moi. » (désir de protéger ses proches)  
+- « Je suis celui qui a déjà sauvé la vie à ton père… » (sensation de devoir et de justice) | Son moteur est **la justice personnelle** et la **protection des proches** – il se voit comme un agent de rétribution et de bienveillance. |
+| **Rapport aux autres** |  
+- « Vous avez rien à craindre. » (confiance, rassurance)  
+- « Vous ne m'abusez pas… » (confrontation)  
+- « Vous vous attendiez à ce que mon fils fût un lâche! » (répression de la critique) | Il est **autoritaire** mais peut être **chaleureux** envers ceux qu’il considère proches; il n’hésite pas à **critiquer** ou à **défendre** ses alliés. |
+
+---
+
+### 2. Style verbal  
+|  Caractéristique  |  Exemples de citations  |  Analyse  |
+|--------------------|--------------------------|-----------|
+| **Registre** |  
+- « Allez, dit lentement le comte… » (registre soutenu, mais accessible)  
+- « Eh! c’est monsieur de Morcerf… » (touche de familiarité) | Le registre oscille entre **soutenu** (formalisme) et **familier** (exclamations, ton direct). |
+| **Syntaxe** |  
+- « Allez, dit il, et faites diligence; à propos, faites prévenir » (phrases courtes, impératives)  
+- « Lequel, demanda‑t‑il, le vicomte ou le comte? » (question directe) | Une syntaxe **pragmatique** : phrases impératives, questions directes, peu de subordination. |
+| **Figures de style** |  
+- Exclamations fortes : « Oh! mon Dieu! », « Par la tombe de mon père! »  
+- Métaphores de pouvoir : « je possède du pouvoir en ce monde… »  
+- Répétitions : « Oui, le comte, moi » (ex : « Oui, le comte, moi ») | Le comte utilise la **rhétorique dramatique** (exclamations, métaphores) pour renforcer son autorité. |
+| **Lexique** |  
+- Verbes de décision : *allé, informe, jure, protège*  
+- Termes de supériorité : *puissance, pouvoir, chevalier*  
+- Expressions de crainte ou de menace : *malheur, péril, vengeance* | Le vocabulaire est **force, contrôle, menace**. |
+| **Rythme** |  
+- Alternance entre **phrases rapides** (« Allez, dit il, et faites diligence… ») et **phrases longues** (« Jusqu’à la mort de l’un de nous deux… ») | Le rythme varie selon l’intensité émotionnelle, mais reste généralement **direct** et **percutant**. |
+
+---
+
+### 3. Comportement conversationnel  
+|  Situation  |  Réaction typique  |  Exemple de citation  |
+|-------------|--------------------|-----------------------|
+| **Provocation** | Réponse directe, parfois agressive | « Vous vous attendiez à ce que mon fils fût un lâche! » |
+| **Question morale** | Réponse confiante, parfois condescendante | « Vous avez rien à craindre. » |
+| **Attaque** | Dénonciation, mise en garde | « Vous ne m'abusez pas… » |
+| **Critique** | Réfutation directe, parfois ironique | « Vous ne m'abusez pas… » |
+| **Demande d'aide** | Réponse positive, rassurante | « Allez, dit lentement le comte, allez, cher ami… » |
+| **Situation de conflit** | Crée de la distance, rappelle son pouvoir | « J'ai bien peur d'être la cause involontaire de cette absence. » |
+| **Interaction avec un proche** | Ton doux, rassurant | « Je vous jure que s'il arrive malheur, ce ne sera point à moi. » |
+| **Confrontation avec un ennemi** | Ton froid, factuel | « Monsieur, répondit froidement Monte‑Cristo, je ne présume pas que vous soyez venu… » |
+
+---
+
+### Synthèse rapide  
+- **Psychologie** : Comte de Monte‑Cristo est un personnage **fort, déterminé** et **vigilant**. Il combine une **fierté de son pouvoir** à une **détermination à protéger ceux qu’il aime**.  
+- **Style verbal** : Il emploie un **registre mixte** (soutenu et familier) avec de **phrases impératives** et des **exclamations marquantes**. Son vocabulaire est dominé par des notions de **puissance, de menace et de protection**.  
+- **Comportement conversationnel** : Il est **direct** et **déterminé**. Face à la provocation ou à l’attaque, il répond de façon **confrontative** ; s’il s’agit de ses proches, il passe à un ton **rassurant**. Il utilise la **rhetorique** pour asseoir son autorité et convaincre.  
+
+Cette fiche permet d’analyser rapidement le Comte de Monte‑Cristo lorsqu’il interagit avec les autres personnages du roman, en se basant uniquement sur les citations fournies.
+--- ANALYSE 1350 ---
+**Fiche personnage – Edmond Dantès / Comte de Monte‑Cristo**
+
+---
+
+### 1. Psychologie  
+| Aspect | Analyse (extraits) |
+|--------|--------------------|
+| **Tempérament** | Dantès est à la fois **calme** et **déterminé**. Il garde toujours le contrôle, même lorsqu’il manipule les autres : « « **Où est M. de Villefort ?** » (question directe, sans émotion). |
+| **Émotions dominantes** | **Fureur** (vengeance) : « « **Je suis Edmond Dantès !** » » (affirmation de l’identité). <br> **Pitié** (pour ceux qu’il choisit de sauver) : « « **Je le distrairai** » (promesse d’aide). <br> **Réflexion** (sur Dieu, le destin) : « « **Dieu est pour moi et avec moi.** » |
+| **Motivation** | **Rédemption** et **justesse** : il cherche à « **remettre la balance** » (extrait sur la mémoire) « « **Conserve‑moi la mémoire !** » ». <br> **Vengeance** contre ceux qui l’ont trahi : « « **Villefort ! Villefort!** » (confrontation). |
+| **Rapport aux autres** | **Autorité** : il donne des ordres (ex. « **Tiens‑toi donc prêt à venir me rejoindre rue des Champs‑Élysées…** »). <br> **Mentor** : il guide Morrel (« **Oui, dit Monte‑Cristo ; n’est‑il pas convenu que je vous emmène **»). <br> **Manipulateur** : il utilise la menace et la promesse (« **Tu auras… une douce mort** », « **Tu auras le frère de Julie** »). |
+
+---
+
+### 2. Style verbal  
+| Caractéristique | Observations (extraits) |
+|-----------------|--------------------------|
+| **Registre** | Mi‑formel à mi‑informel. Il alterne entre un ton solennel (« **Monsieur, vous avez perdu un fils…** ») et un ton familier (« **Où est M. de Villefort?** »). |
+| **Syntaxe** | Majoritairement **phrases impératives** (« **Tiens‑toi donc prêt** », « **Apprêtez‑vous** »). Il emploie aussi de longues **phrases coordonnées** pour exposer son raisonnement (« **Je le distrairai** »). |
+| **Figures de style** | <ul><li>**Exclamations** (« **Oh! !** », « **Mon Dieu !** »). <li>**Métaphores** (« **Une douce mort** »). <li>**Répétitions** (« **Oui, dit Monte‑Cristo…**», « **Oui, dit Monte‑Cristo, oui** »). <li>**Allitérations** (rare, mais présent dans des phrases comme « **Mon Dieu !** »). </ul> |
+| **Lexique** | Vocabulaire de la noblesse et du commerce (« **frère de Julie**», « **enquête**»), mais aussi des termes militaires (« **champs‑Élysées**») et religieux (« **Dieu**», « **prière**»). |
+| **Rythme** | Varié : rythme **rapide** dans les menaces (« **Dans un mois…** »), rythme **lent** dans les monologues introspectifs (« **Il y a dix ans…** »). |
+
+---
+
+### 3. Comportement conversationnel  
+| Situation | Réaction (extraits) |
+|-----------|---------------------|
+| **Provocation** | Il répond avec calme, mais menace subtilement : <br>« **Dans un mois… tu auras… une douce mort** ». |
+| **Question morale** | Il se montre philosophique : <br>« **Dieu est pour moi et avec moi** ». |
+| **Attaque / critique** | Il utilise la **réciprocité** et la **mise en doute** : <br>« **Oh ! dit‑il, il est fou !** ». |
+| **Demande de coopération** | Il combine autorité et promesse : <br>« **Oui, dit Monte‑Cristo ; tu auras le frère de Julie** ». |
+| **Confrontation avec Villefort** | Il reste **déterminé** et **implacable** : <br>« **Villefort ! Villefort!** » (rappel de la trahison). |
+| **Interaction avec Morrel** | Il agit comme **mentor** : <br>« **Morrel, dit Monte‑Cristo, ton devoir est de nous sauver** ». |
+
+---
+
+### 4. Synthèse
+
+Edmond Dantès est un personnage **complexe** et **contradictoire**. Son **psychologie** oscille entre une **fureur viscérale** motivée par la vengeance et une **pitié** stratégique pour ceux qu’il considère dignes de sa protection. Son **style verbal** reflète cette dualité : il emploie un langage à la fois **commandant** et **poétique**, ponctué d’**exclamations** et de **répétitions** pour renforcer son autorité. En conversation, il reste toujours **calme** et **calculé**, répondant aux provocations par des menaces mesurées ou des promesses rassurantes, et se montre philosophique lorsqu’on l’interroge sur le sens de son destin. 
+
+Cette fiche peut servir d’outil d’analyse et de description du personnage lorsqu’on étudie les interactions d’Edmond Dantès dans *Le Comte de Monte‑Cristo*.

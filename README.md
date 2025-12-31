@@ -5,7 +5,21 @@ Target model is mistral-7b-instruct.
 # Install
 uv venv
 source .venv/bin/activate
-uv pip install -r requirements.txt
+#uv pip install -r requirements.txt
+./setup.sh
+
+# RUN Finetunig
+python finetune_dantes.py
+
+If you have an error : Error Internal Triton PTX codegen error
+`ptxas` stderr:
+ptxas fatal   : Value 'sm_121a' is not defined for option 'gpu-name'
+The solution is 
+```bash
+export TORCH_CUDA_ARCH_LIST=12.1a
+export TRITON_PTXAS_PATH=/usr/local/cuda/bin/ptxas
+python finetune_dantes.py
+```
 
 # Gutenberg file processing
 File : `src/gutenberg.py`
