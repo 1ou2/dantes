@@ -1,8 +1,15 @@
 # dantes
-Finetuning a model to act as Edmond Dantès
+Finetuning a model to act as Edmond Dantès.
+Target model is mistral-7b-instruct.
+
+# Install
+uv venv
+source .venv/bin/activate
+uv pip install -r requirements.txt
 
 # Gutenberg file processing
-- download the 4 files corresponding to the text
+File : `src/gutenberg.py`
+- download the 4 files corresponding to the original french text
 - remove UTF-8 BOM
 - remove header and footer
 - reformat text and remove unecessary line breaks around column 80
@@ -17,6 +24,7 @@ curl -LsSf https://hf.co/cli/install.sh | bash
 Go to your hugging face account 
 
 ## Download
+How to download a model ? Example :
 ```bash
 hf auth login
 hf download mistralai/Ministral-3-3B-Instruct-2512
@@ -39,3 +47,26 @@ lrwxrwxrwx 1 gabriel gabriel   52 déc.  21 11:36 tokenizer_config.json -> ../..
 lrwxrwxrwx 1 gabriel gabriel   76 déc.  21 11:36 tokenizer.json -> ../../blobs/286acad9b0e27fce778ac429763536accf618ccb6ed72963b6f94685e531c5c7
 ```
 
+# Dataset
+
+## Citation dataset
+File: `src/citation.py`
+Objective: Generate a dataset of phrases, thoughts, and dialogues from Edmond Dantès.
+
+  To achieve this:
+  - Split the text into chunks of 100 lines
+  - Build a prompt asking to extract citations from the block of lines
+  - Use llama.cpp locally (gpt-oss-20b model) listening on the /chat/completions endpoint
+  - In Python, send a POST request to extract citations from these lines
+  - Generate with the LLM a series of JSON objects: {"context":"citation context", "citation": "phrase spoken by Edmond Dantès"}
+  - Save the citations in a jsonl file
+
+  This describes a workflow for extracting character-specific quotes from "The Count of Monte Cristo" using a local LLM to analyze text chunks and generate structured citation data.
+
+## Character card
+File: `src/charactercard.py`
+Based on the citations from Dantès, generate a character card description the tone, style and personality of Edmond Dantès
+
+## instructions
+File: `src/instructions.py`
+Analyse citations and create a set of questions and answers that will be used during the finetuning

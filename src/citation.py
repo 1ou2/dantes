@@ -1,40 +1,8 @@
 import requests
 import os
 from datetime import datetime
-
-class LLM:
-    def __init__(self, url, model, system_prompt):
-        self.url = url
-        self.model = model
-        self.system_prompt = system_prompt
-
-    def get_response(self, prompt):
-        system_prompt = {"role":"system","content":f"{self.system_prompt}"}
-        user_prompt = {"role":"user","content":f"{prompt}"}
-
-        messages = [system_prompt,user_prompt]
-
-        # Paramètres de la requête
-        data = {
-            "messages":messages,
-            "model": self.model,
-            #"n_predict": 128,  # Nombre de tokens à générer
-            "temperature": 0.7,  # Contrôle la créativité (0.0 = déterministe, 1.0 = aléatoire)
-        }
-        response = requests.post(self.url, json=data)
-        result = response.json()
-        if "choices" not in result or not result["choices"]:
-                    raise ValueError("La réponse ne contient pas de choix valide.")
-
-        # Extraction du contenu
-        content = result["choices"][0]["message"]["content"]
-        reasoning = result["choices"][0]["message"].get("reasoning_content", "")
-
-        #print("--- REASONING ---")
-        #print(reasoning)
-        #print("\n--- RESPONSE ----")
-        #print(content)
-        return reasoning, content
+from llm import LLM
+import json
 
 class Chunker:
     def __init__(self, filename, nb_lines=100, overlap=0):
@@ -65,7 +33,6 @@ class Chunker:
         self.current_chunk += self.chunk_lines - self.overlap
         return ''.join(chunk)
 
-import json
 
 def save_valid_json_lines(text, output_file):
     """
