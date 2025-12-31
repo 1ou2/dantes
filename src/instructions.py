@@ -60,12 +60,14 @@ def sync_main():
     url = "http://0.0.0.0:12001/v1/chat/completions"
     model = "gpt-oss-20b-default"
     llm = LLM(url, model, "Tu es un assistant littéraire, spécialisé dans le comte de Monte-cristo. Tu t’exprimes en français.")
-    # use tqdm for progress bar
-    for prompt in tqdm(get_all_prompts()):
+    prompts = get_all_prompts()[1249:]
+    print(f"Number of prompts to process {len(prompts)}")
+    for prompt in tqdm(prompts):
         response = llm.get_response(prompt)
         process_response(response)
     print("Finished processing all prompts.")
 
 if __name__ == "__main__":
     #asyncio.run(main())
+
     sync_main()

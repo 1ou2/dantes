@@ -6,6 +6,10 @@ Usage:
     python finetune_dantes.py --dataset data/dataset/dantes_conversations.jsonl --output_dir outputs/dantes_model
 """
 
+import os
+# Set Triton PTXAS path before importing CUDA-dependent libraries
+os.environ['TRITON_PTXAS_PATH'] = '/usr/local/cuda/bin/ptxas'
+
 import argparse
 import time
 import sys
