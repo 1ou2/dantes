@@ -33,6 +33,11 @@ def load_model(model_path, max_seq_length=2048):
         map_eos_token=True,
     )
 
+    # Fix pad token to avoid attention mask warning
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
+        tokenizer.pad_token_id = tokenizer.eos_token_id
+
     # Enable fast inference
     FastLanguageModel.for_inference(model)
 
@@ -53,25 +58,34 @@ def generate_response(model, tokenizer, user_message, max_new_tokens=256, stream
         return_tensors="pt",
     ).to("cuda")
 
+    # Create attention mask
+    attention_mask = (inputs != tokenizer.pad_token_id).long()
+
     if stream:
-        # Stream the output token by token
-        text_streamer = TextStreamer(tokenizer, skip_prompt=True)
+        # Stream the output token by token, skipping special tokens
+        text_streamer = TextStreamer(tokenizer, skip_prompt=True, skip_special_tokens=True)
         _ = model.generate(
             input_ids=inputs,
+            attention_mask=attention_mask,
             streamer=text_streamer,
             max_new_tokens=max_new_tokens,
             use_cache=True,
             temperature=0.7,
             top_p=0.9,
+            eos_token_id=tokenizer.eos_token_id,
+            pad_token_id=tokenizer.pad_token_id,
         )
     else:
         # Generate without streaming
         outputs = model.generate(
             input_ids=inputs,
+            attention_mask=attention_mask,
             max_new_tokens=max_new_tokens,
             use_cache=True,
             temperature=0.7,
             top_p=0.9,
+            eos_token_id=tokenizer.eos_token_id,
+            pad_token_id=tokenizer.pad_token_id,
         )
         response = tokenizer.decode(outputs[0], skip_special_tokens=True)
         # Extract just the assistant's response

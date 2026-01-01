@@ -11,7 +11,9 @@ def format_messages(system_prompt, user_prompt):
 
 def parse_response(result)->str:
     if "choices" not in result or not result["choices"]:
-        raise ValueError("La réponse ne contient pas de choix valide.")
+        import json
+        error_msg = f"La réponse ne contient pas de choix valide. Réponse reçue: {json.dumps(result, indent=2)}"
+        raise ValueError(error_msg)
     content = result["choices"][0]["message"]["content"]
     #reasoning = result["choices"][0]["message"].get("reasoning_content", "")
 
