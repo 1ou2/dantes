@@ -1,86 +1,260 @@
-# dantes
-Finetuning a model to act as Edmond Dantès.
-Target model is mistral-7b-instruct.
+# Dantès - Fine-tuning Mistral 7B as Edmond Dantès
 
-# Install
+Fine-tuning project to create a model that acts as Edmond Dantès from "The Count of Monte Cristo". The model is trained on character-specific data extracted from the original French text.
+
+**Target model:** mistral-7b-instruct
+
+## Quick Start
+
+```bash
+# Install dependencies
 uv venv
 source .venv/bin/activate
-#uv pip install -r requirements.txt
 ./setup.sh
 
-# RUN Finetunig
+# Run the complete pipeline (see Data Pipeline section below)
+python src/gutenberg.py
+python src/citation.py
+python src/instructions.py
+python src/prepare_dataset.py instructions-result.txt
+
+# Fine-tune the model
 python finetune_dantes.py
 
-If you have an error : Error Internal Triton PTX codegen error
+# Use the model
+python inference_dantes.py --model_path outputs/dantes_lora
+```
+
+## Prerequisites
+
+### Local LLM Server
+All data generation scripts require a local LLM server running:
+- **URL:** `http://0.0.0.0:12001/v1/chat/completions`
+- **Model:** `gpt-oss-20b-default`
+- **Server:** llama.cpp or compatible OpenAI-style API
+
+Start the server before running data generation scripts.
+
+### Hugging Face CLI (optional)
+```bash
+# Install
+curl -LsSf https://hf.co/cli/install.sh | bash
+
+# Login and download models
+hf auth login
+hf download mistralai/Ministral-3-3B-Instruct-2512
+```
+
+## Data Pipeline
+
+The project follows a sequential pipeline to generate fine-tuning data:
+
+### 1. Download and Process Source Text
+**Script:** `src/gutenberg.py`
+
+Downloads and preprocesses the original French text of "Le Comte de Monte-Cristo" from Project Gutenberg.
+
+**Process:**
+- Downloads 4 Gutenberg files (IDs: 17989, 17990, 17991, 17992)
+- Removes UTF-8 BOM, headers, and footers
+- Reformats text by removing hard line breaks around column 80
+- Preserves paragraph structure and dialogues
+- Special handling for dialogue markers (—, --, –, -, «)
+
+**Output:** `data/gutenberg/*.txt` (cleaned, reformatted text files)
+
+```bash
+python src/gutenberg.py
+```
+
+### 2. Extract Character Citations
+**Script:** `src/citation.py`
+
+Extracts Edmond Dantès' thoughts, speech, and writings from the processed text.
+
+**Process:**
+- Splits text into 100-line chunks with 10-line overlap
+- Sends each chunk to local LLM with extraction prompt
+- LLM identifies and extracts Dantès-specific content
+- Returns structured data: `{"contexte": "...", "citation": "..."}`
+
+**Output:** `data/citations/dantes.jsonl` (JSONL file with character citations)
+
+```bash
+python src/citation.py
+```
+
+**Note:** Adjust `max_chunks` and `start_chunk` in the script to process specific ranges.
+
+### 3. Generate Instruction Dataset
+**Script:** `src/instructions.py`
+
+Converts citations into question-answer pairs for instruction tuning.
+
+**Process:**
+- For each citation, generates 3 Q&A pairs
+- Maintains Dantès' 19th-century formal French style
+- Creates instruction-tuning format: `{"instruction": "...", "response": "..."}`
+
+**Output:** `instructions-result.txt` (raw LLM output with multiple JSON objects)
+
+```bash
+python src/instructions.py
+```
+
+**Modes:**
+- `sync_main()`: Sequential processing with progress bar
+- `main()`: Async processing (max 3 concurrent requests)
+
+### 4. Prepare Training Dataset
+**Script:** `src/prepare_dataset.py`
+
+Transforms raw instruction data into proper training format.
+
+**Process:**
+- Parses multiple JSON objects per line from LLM output
+- Converts to ShareGPT-style conversation format
+- Creates two versions: basic and with system prompt
+
+**Output:**
+- `data/dataset/dantes_conversations.jsonl` (basic format)
+- `data/dataset/dantes_conversations_system.jsonl` (with system prompt)
+
+```bash
+# For testing
+python src/prepare_dataset.py instructions-sample.txt
+
+# For full dataset
+python src/prepare_dataset.py instructions-result.txt
+```
+
+**Format:**
+```json
+{
+  "conversations": [
+    {"from": "human", "value": "question"},
+    {"from": "gpt", "value": "response"}
+  ]
+}
+```
+
+### 5. Fine-tune the Model
+**Script:** `finetune_dantes.py`
+
+Fine-tunes Mistral 7B using Unsloth for efficient training.
+
+**Basic usage:**
+```bash
+python finetune_dantes.py
+```
+
+**Full options:**
+```bash
+python finetune_dantes.py \
+  --dataset data/dataset/dantes_conversations.jsonl \
+  --output_dir outputs/dantes_lora \
+  --batch_size 2 \
+  --gradient_accumulation_steps 4 \
+  --learning_rate 2e-4 \
+  --num_epochs 3 \
+  --save_merged \
+  --save_gguf \
+  --gguf_quantization q4_k_m
+```
+
+**Key parameters:**
+- `--dataset`: Training dataset path
+- `--batch_size`: Per-device batch size (default: 2)
+- `--num_epochs`: Training epochs (default: 3)
+- `--output_dir`: LoRA adapter output directory
+- `--save_merged`: Save merged 16-bit model for VLLM
+- `--save_gguf`: Save quantized GGUF model
+- `--gguf_quantization`: GGUF format (q8_0, q4_k_m, q5_k_m, f16)
+
+**Output:** LoRA adapters in `outputs/dantes_lora/`
+
+### 6. Run Inference
+**Script:** `inference_dantes.py`
+
+Use the fine-tuned model for interactive conversations.
+
+**Interactive mode:**
+```bash
+python inference_dantes.py --model_path outputs/dantes_lora
+```
+
+**Single question:**
+```bash
+python inference_dantes.py --model_path outputs/dantes_lora --question "Que pensez-vous de la justice?"
+```
+
+**Test examples:**
+```bash
+python inference_dantes.py --model_path outputs/dantes_lora --test
+```
+
+**Parameters:**
+- `--model_path`: Path to fine-tuned model (default: outputs/dantes_lora)
+- `--max_tokens`: Maximum tokens to generate (default: 256)
+- `--test`: Run predefined test questions
+- `--question`: Ask single question and exit
+
+## Troubleshooting
+
+### CUDA Architecture Error
+If you encounter this error:
+```
+Error Internal Triton PTX codegen error
 `ptxas` stderr:
 ptxas fatal   : Value 'sm_121a' is not defined for option 'gpu-name'
-The solution is 
+```
+
+**Solution:**
 ```bash
 export TORCH_CUDA_ARCH_LIST=12.1a
 export TRITON_PTXAS_PATH=/usr/local/cuda/bin/ptxas
 python finetune_dantes.py
 ```
 
-# Gutenberg file processing
-File : `src/gutenberg.py`
-- download the 4 files corresponding to the original french text
-- remove UTF-8 BOM
-- remove header and footer
-- reformat text and remove unecessary line breaks around column 80
+## Project Structure
 
-Output of this file is a clean formatted file in the data/gutenberg folder
+```
+data/
+├── raw/              # Downloaded Gutenberg files
+├── preprocessed/     # Header/footer removed
+├── gutenberg/        # Final reformatted text
+├── citations/        # Extracted citations (JSONL)
+│   └── dantes.jsonl
+└── dataset/          # Fine-tuning datasets
+    ├── dantes_conversations.jsonl
+    └── dantes_conversations_system.jsonl
 
-# Hugging fate
-## install hugging face cli tool
-curl -LsSf https://hf.co/cli/install.sh | bash
+outputs/
+└── dantes_lora/      # Trained LoRA adapters
+    ├── adapter_config.json
+    ├── adapter_model.safetensors
+    └── ...
 
-## create an access token
-Go to your hugging face account 
-
-## Download
-How to download a model ? Example :
-```bash
-hf auth login
-hf download mistralai/Ministral-3-3B-Instruct-2512
-ls -al $HOME/.cache/huggingface/hub/models--mistralai--Ministral-3-3B-Instruct-2512/snapshots/811c44083b80c8026885759afdece4413740632f/
-total 24
-drwxrwxr-x 2 gabriel gabriel 4096 déc.  21 11:37 .
-drwxrwxr-x 3 gabriel gabriel 4096 déc.  21 11:36 ..
-lrwxrwxrwx 1 gabriel gabriel   52 déc.  21 11:36 chat_template.jinja -> ../../blobs/32d54c07b1f7ee6e50d5b60f8b112e6e94abc583
-lrwxrwxrwx 1 gabriel gabriel   52 déc.  21 11:36 config.json -> ../../blobs/dc2540f4f6c00e131b2f29dc7e7f5fc2805c8f41
-lrwxrwxrwx 1 gabriel gabriel   76 déc.  21 11:37 consolidated.safetensors -> ../../blobs/a1b2aa6d22874ed04b7071a595581d48832ddeda8d6e69f54537b31aa3a775cf
-lrwxrwxrwx 1 gabriel gabriel   52 déc.  21 11:36 generation_config.json -> ../../blobs/add11cbc06647495098ee6dd5c9cbc96841a445a
-lrwxrwxrwx 1 gabriel gabriel   52 déc.  21 11:36 .gitattributes -> ../../blobs/0d4cb185280917cac60ef7195f2a6250b2b90d83
-lrwxrwxrwx 1 gabriel gabriel   76 déc.  21 11:37 model.safetensors -> ../../blobs/728f1826cd0e38191ca7b1379e81f78cf0555c6ffd95882aabd2404632346f86
-lrwxrwxrwx 1 gabriel gabriel   52 déc.  21 11:36 params.json -> ../../blobs/00cb7057abcfd2874d8eba5cc72eb2d84d8e3bdc
-lrwxrwxrwx 1 gabriel gabriel   52 déc.  21 11:36 processor_config.json -> ../../blobs/a37d728b12fd27ac60a437894bd51de83449bf30
-lrwxrwxrwx 1 gabriel gabriel   52 déc.  21 11:36 README.md -> ../../blobs/bc1e39adcd1f7b30292a802dcd59d39c76d24175
-lrwxrwxrwx 1 gabriel gabriel   52 déc.  21 11:36 SYSTEM_PROMPT.txt -> ../../blobs/5f95aa977b9fefcf6fb3a683fa97779a7f2c0e93
-lrwxrwxrwx 1 gabriel gabriel   76 déc.  21 11:36 tekken.json -> ../../blobs/e29d19ea32eb7e26e6c0572d57cb7f9eca0f4420e0e0fe6ae1cf3be94da1c0d6
-lrwxrwxrwx 1 gabriel gabriel   52 déc.  21 11:36 tokenizer_config.json -> ../../blobs/a7843c180f2b39d43303e7eba55d2e34fd600a8f
-lrwxrwxrwx 1 gabriel gabriel   76 déc.  21 11:36 tokenizer.json -> ../../blobs/286acad9b0e27fce778ac429763536accf618ccb6ed72963b6f94685e531c5c7
+src/
+├── gutenberg.py      # Download and process source text
+├── citation.py       # Extract character citations
+├── charactercard.py  # Generate character profile
+├── instructions.py   # Generate Q&A pairs
+├── prepare_dataset.py # Format for training
+└── llm.py           # LLM wrapper classes
 ```
 
-# Dataset
+## Additional Tools
 
-## Citation dataset
-File: `src/citation.py`
-Objective: Generate a dataset of phrases, thoughts, and dialogues from Edmond Dantès.
+### Character Card Generation
+**Script:** `src/charactercard.py`
 
-  To achieve this:
-  - Split the text into chunks of 100 lines
-  - Build a prompt asking to extract citations from the block of lines
-  - Use llama.cpp locally (gpt-oss-20b model) listening on the /chat/completions endpoint
-  - In Python, send a POST request to extract citations from these lines
-  - Generate with the LLM a series of JSON objects: {"context":"citation context", "citation": "phrase spoken by Edmond Dantès"}
-  - Save the citations in a jsonl file
+Generates a character profile analyzing Dantès' tone, style, and personality based on extracted citations.
 
-  This describes a workflow for extracting character-specific quotes from "The Count of Monte Cristo" using a local LLM to analyze text chunks and generate structured citation data.
+**Output:**
+- `card-result.txt` (intermediate analyses)
+- `character-card-summary.txt` (final character profile)
 
-## Character card
-File: `src/charactercard.py`
-Based on the citations from Dantès, generate a character card description the tone, style and personality of Edmond Dantès
-
-## instructions
-File: `src/instructions.py`
-Analyse citations and create a set of questions and answers that will be used during the finetuning
+```bash
+python src/charactercard.py
+```
