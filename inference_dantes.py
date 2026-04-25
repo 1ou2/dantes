@@ -8,6 +8,8 @@ Usage:
 import os
 # Set Triton PTXAS path before importing CUDA-dependent libraries
 os.environ['TRITON_PTXAS_PATH'] = '/usr/local/cuda/bin/ptxas'
+import warnings
+warnings.filterwarnings("ignore", category=FutureWarning)
 
 import argparse
 from unsloth import FastLanguageModel
