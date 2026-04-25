@@ -25,6 +25,77 @@ python finetune_dantes.py
 python inference_dantes.py --model_path outputs/dantes_lora
 ```
 
+## Running Inference (without fine-tuning locally)
+
+If you want to run inference directly without going through the full data pipeline and fine-tuning process, you can download the pre-trained LoRA adapter from Hugging Face.
+
+### 1. Install dependencies
+
+```bash
+uv venv
+source .venv/bin/activate
+./setup.sh
+```
+
+### 2. Authenticate with Hugging Face
+
+```bash
+pip install huggingface_hub[cli]
+hf auth login
+```
+
+### 3. Download the LoRA adapter
+
+```bash
+hf download 1ou2/comte-monte-cristo-mistral-7b --local-dir outputs/dantes_lora
+```
+
+This downloads the fine-tuned LoRA adapter files (`adapter_model.safetensors`, `adapter_config.json`, tokenizer files, etc.) into `outputs/dantes_lora/`.
+
+> **Note:** The base model `unsloth/mistral-7b-instruct-v0.3-bnb-4bit` is downloaded automatically by unsloth on first run. No manual download is required for it.
+
+### 4. Run the base model (before fine-tuning)
+
+This runs the original Mistral 7B Instruct model without any fine-tuning, useful for comparison:
+
+```bash
+# Interactive mode
+python inference_base.py
+
+# Test with predefined questions
+python inference_base.py --test
+
+# Ask a single question
+python inference_base.py --question "Que pensez-vous de la justice?"
+```
+
+### 5. Run the fine-tuned Dantès model
+
+Using the downloaded LoRA adapter:
+
+```bash
+# Interactive mode (uses outputs/dantes_lora by default)
+python inference_dantes.py
+
+# Or specify the path explicitly
+python inference_dantes.py --model_path outputs/dantes_lora
+
+# You can also point directly to the Hugging Face repo (downloads on the fly)
+python inference_dantes.py --model_path 1ou2/comte-monte-cristo-mistral-7b
+
+# Test with predefined questions
+python inference_dantes.py --test
+
+# Ask a single question
+python inference_dantes.py --question "Que pensez-vous de la justice?"
+```
+
+### Hardware Requirements
+
+- **GPU**: NVIDIA GPU with CUDA support (the model runs in 4-bit quantization)
+- **VRAM**: ~8 GB minimum
+- **CUDA**: Compatible CUDA toolkit installed
+
 ## Prerequisites
 
 ### Local LLM Server

@@ -11,6 +11,9 @@ import os
 # Set Triton PTXAS path before importing CUDA-dependent libraries
 os.environ['TRITON_PTXAS_PATH'] = '/usr/local/cuda/bin/ptxas'
 
+import warnings
+warnings.filterwarnings("ignore", category=FutureWarning)
+
 import argparse
 from unsloth import FastLanguageModel
 from unsloth.chat_templates import get_chat_template
@@ -72,6 +75,7 @@ def generate_response(model, tokenizer, user_message, max_new_tokens=256, stream
             attention_mask=attention_mask,
             streamer=text_streamer,
             max_new_tokens=max_new_tokens,
+            max_length=None,
             use_cache=True,
             temperature=0.7,
             top_p=0.9,
@@ -84,6 +88,7 @@ def generate_response(model, tokenizer, user_message, max_new_tokens=256, stream
             input_ids=inputs,
             attention_mask=attention_mask,
             max_new_tokens=max_new_tokens,
+            max_length=None,
             use_cache=True,
             temperature=0.7,
             top_p=0.9,
